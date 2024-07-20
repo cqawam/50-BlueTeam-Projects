@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/Wild.png">
+  <img src="/images/blueteam.png">
 </p>
 
 This project offers a comprehensive list of nearly 50 practical tasks designed to help aspiring and experienced cybersecurity professionals enhance their defensive skills. These projects cover a wide range of activities, including lab setups, SOC monitoring, incident response, forensics, malware analysis, detection engineering, threat hunting, and scripting and automation for Blue Teamers.
