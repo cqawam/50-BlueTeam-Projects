@@ -15,7 +15,17 @@ I am motivated by Mortimos' 100 Red Team Projects: https://github.com/Mortimus/1
 Project No | Lab Setup and Configuration | Status | Reference
 ------------------------------------------------|------------------------------------------------|-----------------------------------------|---------------------------------------------------------
 [01] | Installing a Vulnerable Active Directory Environment (GOAD) | Completed: ✅ | [Secure Scribe](https://cqawam.github.io/posts/GOAD/)
-[02] | Configuring a SIEM System (ELK Stack) | Completed: ✅ | To Do: 🗒️ 
-[03] | Setting Up a Network Intrusion Detection System (NIDS)	 | To Do: 🗒️ | To Do: 🗒️ 
-[04] |Building a Forensic Analysis Lab (Windows and Linux) | Available: ✅ | To Do: 🗒️ 
-[05] | Creating a Malware Analysis Sandbox (Remnux and FlareVM) | Available: ✅ | To Do: 🗒️ 
+[02] | Configuring a SIEM System (ELK Stack) | Completed: ✅ | -
+[03] | Setting Up a Network Intrusion Detection System (NIDS)	 | To Do: 🗒️ | -
+[04] |Building a Forensic Analysis Lab (Windows and Linux) | Available: ✅ | -
+[05] | Creating a Malware Analysis Sandbox (Remnux and FlareVM) | Available: ✅ | - 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Project No | Scripting and Automation for Blue Team | Status | Reference
+------------------------------------------------|------------------------------------------------|-----------------------------------------|---------------------------------------------------------
+[06] | Log File Analysis with Python | To Do: 🗒️ | -
+[07] | Network Scripting and System Monitoring with Python | To Do: 🗒️ | - 
+[08] | Detection Engineering with Python | To Do: 🗒️ | -
+[09] | Incident Response and Forensics with PowerShell | To Do: 🗒️ | -
+[10] | Vulnerability Scanning Automation with PowerShell | To Do: 🗒️ | - 
