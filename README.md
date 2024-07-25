@@ -12,10 +12,10 @@ From setting up secure environments to diving deep into log analysis and threat 
 I am motivated by Mortimos' 100 Red Team Projects: https://github.com/Mortimus/100-redteam-projects
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-Project No | Lab Setup and Configuration | Status
+Project No | Lab Setup and Configuration | Status | Reference
 ------------------------------------------------|------------------------------------------------|-----------------------------------------
-[01] | Installing a Vulnerable Active Directory Environment (GOAD) | In Progress: ⏳
-[02] | Configuring a SIEM System (e.g., Splunk, ELK Stack) | Available: ✅
-[03] | Setting Up a Network Intrusion Detection System (NIDS)	 | To Do: 🗒️ 
-[04] |Building a Forensic Analysis Lab (Windows and Linux) | Available: ✅ 
-[05] | Creating a Malware Analysis Sandbox (Remnux and FlareVM) | Available: ✅
+[01] | Installing a Vulnerable Active Directory Environment (GOAD) | Completed: ✅ | [Secure Scribe](https://cqawam.github.io/posts/GOAD/){:target="_blank"}
+[02] | Configuring a SIEM System (ELK Stack) | Completed: ✅ | To Do: 🗒️ 
+[03] | Setting Up a Network Intrusion Detection System (NIDS)	 | To Do: 🗒️ | 
+[04] |Building a Forensic Analysis Lab (Windows and Linux) | Available: ✅ | To Do: 🗒️ 
+[05] | Creating a Malware Analysis Sandbox (Remnux and FlareVM) | Available: ✅ | To Do: 🗒️ 
