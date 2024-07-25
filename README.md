@@ -14,7 +14,7 @@ I am motivated by Mortimos' 100 Red Team Projects: https://github.com/Mortimus/1
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project No | Lab Setup and Configuration | Status | Reference
 ------------------------------------------------|------------------------------------------------|-----------------------------------------|---------------------------------------------------------
-[01] | Installing a Vulnerable Active Directory Environment (GOAD) | Completed: ✅ | [Secure Scribe](https://cqawam.github.io/posts/GOAD/)
+[01] | Installing a Vulnerable Active Directory Environment (GOAD) | Completed: ✅ | [Secure Scribe](https://cqawam.github.io/posts/GOAD/){:target="_blank"}
 [02] | Configuring a SIEM System (ELK Stack) | Completed: ✅ | To Do: 🗒️ 
 [03] | Setting Up a Network Intrusion Detection System (NIDS)	 | To Do: 🗒️ | To Do: 🗒️ 
 [04] |Building a Forensic Analysis Lab (Windows and Linux) | Available: ✅ | To Do: 🗒️ 
